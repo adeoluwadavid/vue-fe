@@ -1,5 +1,9 @@
 # frontend_task
-
+```
+This is a job connection application built with VUEJs and Sequelize with MySql for backend
+The project runs on PORT 8080
+The github repository: [sequelize-be](https://github.com/adeoluwadavid/sequelize-be) contains the required APIs
+```
 ## Project setup
 ```
 npm install
