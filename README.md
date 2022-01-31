@@ -6,7 +6,7 @@ The github repository that contains the required APIs is below
 ```
 
 ### Backend Repository
-See [Configuration Reference](https://github.com/adeoluwadavid/sequelize-be)
+See [Link](https://github.com/adeoluwadavid/sequelize-be)
 ## Project setup
 ```
 npm install
