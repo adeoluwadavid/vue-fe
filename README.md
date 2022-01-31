@@ -2,8 +2,11 @@
 ```
 This is a JOB CONNECTION application built with VueJs and Sequelize with MySql for backend
 The project runs on PORT 8080
-The github repository: [Configuration Reference](https://github.com/adeoluwadavid/sequelize-be) contains the required APIs
+The github repository that contains the required APIs is below
 ```
+
+### Backend Repository
+See [Configuration Reference](https://github.com/adeoluwadavid/sequelize-be)
 ## Project setup
 ```
 npm install
